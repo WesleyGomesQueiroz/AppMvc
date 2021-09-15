@@ -42,7 +42,6 @@ C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.pdb
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.Views.dll
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.Views.pdb
-C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csprojAssemblyReference.cache
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.AssemblyInfoInputs.cache
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.AssemblyInfo.cs
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csproj.CoreCompileInputs.cache
@@ -68,3 +67,8 @@ C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.pdb
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.genruntimeconfig.cache
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csproj.CopyComplete
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csprojAssemblyReference.cache
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Business.pdb

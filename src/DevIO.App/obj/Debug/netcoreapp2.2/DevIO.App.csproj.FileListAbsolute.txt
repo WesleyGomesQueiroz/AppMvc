@@ -72,3 +72,13 @@ C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.dll
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Create.cshtml.g.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Delete.cshtml.g.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Details.cshtml.g.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Edit.cshtml.g.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Index.cshtml.g.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.cshtml.g.cs

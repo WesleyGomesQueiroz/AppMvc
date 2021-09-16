@@ -1,4 +1,4 @@
-﻿using DevIO.App.Models;
+﻿using DevIO.App.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;

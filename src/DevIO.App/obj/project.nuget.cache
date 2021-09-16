@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PTLf3Hzz0ra6U5dGas7RJhoMrhoCeJPaBZ2lCT7rviuNArfIBYrV28MSHFZnQzhceC7Lh6z6Xcis473D4cxtiA==",
+  "dgSpecHash": "eji1zvmawbAteRV9Jqy/+CPrDmC0H4zvH8KaNuucKwpJ8qp8uFefx4isbAGB7Npa1BISMd3yZRcOvnxVR8EM9g==",
   "success": true,
   "projectFilePath": "C:\\Desenvolvedor.io\\Dominando o ASP.NET MVC Core\\AppMvc\\src\\DevIO.App\\DevIO.App.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\wesle\\.nuget\\packages\\automapper\\8.1.0\\automapper.8.1.0.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.0\\automapper.extensions.microsoft.dependencyinjection.6.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

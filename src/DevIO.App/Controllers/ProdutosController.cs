@@ -93,9 +93,33 @@ namespace DevIO.App.Controllers
         {
             if (id != produtoViewModel.Id) return NotFound();
 
+            var produtoAtualizacao = await ObterProduto(id);
+            produtoViewModel.Fornecedor = produtoAtualizacao.Fornecedor;
+            produtoViewModel.Imagem = produtoAtualizacao.Imagem;
             if (!ModelState.IsValid) return View(produtoViewModel);
 
-            await _produtoRepository.Atualizar(_mapper.Map<Produto>(produtoViewModel));
+            if (produtoViewModel.ImagemUpload != null)
+            {
+                var imgPrefixo = Guid.NewGuid() + "_";
+                if (!await UploadArquivo(produtoViewModel.ImagemUpload, imgPrefixo))
+                {
+                    return View(produtoViewModel);
+                }
+
+                produtoAtualizacao.Imagem = imgPrefixo + produtoViewModel.ImagemUpload.FileName;
+            }
+
+            produtoAtualizacao.Nome = produtoViewModel.Nome;
+            produtoAtualizacao.Descricao = produtoViewModel.Descricao;
+            produtoAtualizacao.Valor = produtoViewModel.Valor;
+            produtoAtualizacao.Ativo = produtoViewModel.Ativo;
+
+            await _produtoRepository.Atualizar(_mapper.Map<Produto>(produtoAtualizacao));
+
+            if (produtoViewModel.Imagem != produtoAtualizacao.Imagem)
+            {
+                RemoverArquivo(produtoViewModel.Imagem);
+            }
 
             return RedirectToAction(actionName: "Index");
         }
@@ -160,5 +184,20 @@ namespace DevIO.App.Controllers
 
             return true;
         }
+
+        private static bool RemoverArquivo(string nomeArquivo)
+        {
+            var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/imagens", nomeArquivo);
+
+            if (System.IO.File.Exists(path))
+            {
+                System.IO.File.Delete(path);
+
+                return true;
+            }
+
+            return false;
+        }
+
     }
 }

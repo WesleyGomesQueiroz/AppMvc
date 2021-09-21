@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "M5AQcMLwhCBP6pLr1fS4vw5qn8aBnKbt7QRgHqpwh04q/glVfr29j+XXCksm4TJ7HieSTn+6Ee4cSqzIznGOHw==",
+  "dgSpecHash": "RdNrODdPObPOSlRQo4n6j9uUoxrgLHuaBPIuH2qxnY8nkOUOmpN8GZH6PU5QQ0LVW1vFiZVwLMILzjt1TaQk3A==",
   "success": true,
   "projectFilePath": "C:\\Desenvolvedor.io\\Dominando o ASP.NET MVC Core\\AppMvc\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\wesle\\.nuget\\packages\\fluentvalidation\\8.3.0\\fluentvalidation.8.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore\\2.2.0\\microsoft.entityframeworkcore.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.abstractions\\2.2.0\\microsoft.entityframeworkcore.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.analyzers\\2.2.0\\microsoft.entityframeworkcore.analyzers.2.2.0.nupkg.sha512",

@@ -15,4 +15,3 @@ C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\D
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
-C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache

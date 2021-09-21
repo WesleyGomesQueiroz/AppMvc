@@ -87,3 +87,5 @@ C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_DetalhesEndereco.cshtml.g.cs
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\_ListaProdutos.cshtml.g.cs
 C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_AtualizarEndereco.cshtml.g.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\appsettings.Production.json
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.App\bin\Debug\netcoreapp2.2\appsettings.Staging.json

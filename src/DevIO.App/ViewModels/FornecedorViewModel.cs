@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace DevIO.App.ViewModels
 {
@@ -22,7 +20,7 @@ namespace DevIO.App.ViewModels
 
         [DisplayName("Tipo")]
         public int TipoFornecedor { get; set; }
-
+        
         public EnderecoViewModel Endereco { get; set; }
 
         [DisplayName("Ativo?")]

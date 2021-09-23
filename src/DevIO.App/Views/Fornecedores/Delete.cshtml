@@ -2,13 +2,15 @@
 @model DevIO.App.ViewModels.FornecedorViewModel
 
 @{
-    ViewData["Title"] = "Excluir fornecedor";
+    ViewData["Title"] = "Excluir Fornecedor";
 }
 
 <h1>@ViewData["Title"]</h1>
 
+<vc:Summary></vc:Summary>
+
 <div>
-    <h4>Esta ação sera permanente!</h4>
+    <h4>Esta ação será permanente!</h4>
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
@@ -17,14 +19,12 @@
         <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Nome)
         </dd>
-
         <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Documento)
         </dt>
         <dd class="col-sm-10">
             @this.FormataDocumento(Model.TipoFornecedor, Model.Documento)
         </dd>
-
         <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Ativo)
         </dt>
@@ -40,4 +40,4 @@
     </form>
 </div>
 
-<partial name="_DetalhesEndereco"/>
+<partial name="_DetalhesEndereco" />

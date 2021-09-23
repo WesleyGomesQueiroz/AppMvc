@@ -1,0 +1,18 @@
+C:\Users\wesle\OneDrive\Área de Trabalho\Nova pasta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+C:\Users\wesle\OneDrive\Área de Trabalho\Nova pasta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\wesle\OneDrive\Área de Trabalho\Nova pasta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\wesle\OneDrive\Área de Trabalho\Nova pasta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\wesle\OneDrive\Área de Trabalho\Nova pasta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\wesle\OneDrive\Área de Trabalho\Nova pasta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\Users\wesle\OneDrive\Área de Trabalho\Nova pasta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Área de Trabalho\Nova pasta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\wesle\OneDrive\Área de Trabalho\Nova pasta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AppMvc\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb

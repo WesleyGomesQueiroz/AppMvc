@@ -48,7 +48,6 @@
 
     <div class="form-group">
         <input type="submit" value="Salvar" class="btn btn-primary" />
-        <a class="btn btn-info" href="javascript:window.history.back();">Voltar</a>
     </div>
 </form>
 
@@ -58,7 +57,6 @@
 
 <hr />
 <h4>Produtos</h4>
-
 <div>
     <partial name="../Produtos/_ListaProdutos" model="@Model.Produtos" />
 </div>
@@ -76,7 +74,8 @@
 
     <script>
         $(document).ready(function () {
-            AjaxModal();
+            SetModal();
         });
     </script>
+
 }

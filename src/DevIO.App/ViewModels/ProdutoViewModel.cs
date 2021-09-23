@@ -1,11 +1,10 @@
-﻿using DevIO.App.Extensions;
-using Microsoft.AspNetCore.Http;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
+using DevIO.App.Extensions;
+using DevIO.Business.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace DevIO.App.ViewModels
 {
@@ -24,7 +23,7 @@ namespace DevIO.App.ViewModels
 
         [DisplayName("Descrição")]
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
-        [StringLength(200, ErrorMessage = "O campo {0} precisa ter entre {2} e {1} caracteres", MinimumLength = 2)]
+        [StringLength(1000, ErrorMessage = "O campo {0} precisa ter entre {2} e {1} caracteres", MinimumLength = 2)]
         public string Descricao { get; set; }
 
         [DisplayName("Imagem do Produto")]

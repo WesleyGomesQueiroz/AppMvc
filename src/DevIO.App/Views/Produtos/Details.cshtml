@@ -1,14 +1,14 @@
 ﻿@model DevIO.App.ViewModels.ProdutoViewModel
 
 @{
-    ViewData["Title"] = "Detalhe do produto - " + Model.Nome;
+    ViewData["Title"] = "Detalhe do Produto - " + Model.Nome;
 }
 
-<h4 style="padding-top:50px">@ViewData["Title"]</h4>
+<h4 style="padding-top: 50px">@ViewData["Title"]</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <img src="~/imagens/@Model.Imagem" style="width:300px; height:428px;" />
+        <img src="~/imagens/@Model.Imagem" alt="@Model.Imagem" style="width: 300px; height: 428px" />
     </div>
     <div class="col-md-6">
         <dl>
@@ -18,35 +18,30 @@
             <dd>
                 @Html.DisplayFor(model => model.Fornecedor.Nome)
             </dd>
-
             <dt>
                 @Html.DisplayNameFor(model => model.Nome)
             </dt>
             <dd>
                 @Html.DisplayFor(model => model.Nome)
             </dd>
-                      
             <dt>
                 @Html.DisplayNameFor(model => model.Descricao)
             </dt>
             <dd>
                 @Html.DisplayFor(model => model.Descricao)
             </dd>
-
             <dt>
                 @Html.DisplayNameFor(model => model.Valor)
             </dt>
             <dd>
-                @Model.Valor.ToString(format: "C");
+                @Model.Valor.ToString("C")
             </dd>
-
             <dt>
                 @Html.DisplayNameFor(model => model.DataCadastro)
             </dt>
             <dd>
                 @Html.DisplayFor(model => model.DataCadastro)
             </dd>
-
             <dt>
                 @Html.DisplayNameFor(model => model.Ativo)
             </dt>
@@ -56,9 +51,8 @@
         </dl>
 
         <div>
-            <a class="btn btn-dark" asp-action="Edit" asp-route-id="@Model.Id">Editar</a>
+            <a supress-by-claim-name="Produto" supress-by-claim-value="Editar" class="btn btn-dark" sp-action="Edit" asp-route-id="@Model.Id">Editar</a>
             <a class="btn btn-info" href="javascript:window.history.back();">Voltar</a>
         </div>
     </div>
 </div>
-

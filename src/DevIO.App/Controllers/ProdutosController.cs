@@ -131,6 +131,11 @@ namespace DevIO.App.Controllers
 
             if (!OperacaoValida()) return View(produtoViewModel);
 
+            if (produtoViewModel.Imagem != produtoAtualizacao.Imagem)
+            {
+                RemoverArquivo(produtoViewModel.Imagem);
+            }
+
             return RedirectToAction("Index");
         }
 
@@ -200,6 +205,20 @@ namespace DevIO.App.Controllers
             }
 
             return true;
+        }
+
+        private static bool RemoverArquivo(string nomeArquivo)
+        {
+            var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/imagens", nomeArquivo);
+
+            if (System.IO.File.Exists(path))
+            {
+                System.IO.File.Delete(path);
+
+                return true;
+            }
+
+            return false;
         }
     }
 }
